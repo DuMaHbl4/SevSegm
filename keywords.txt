@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For SevSegm
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+sevSegm	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+rePrint KEYWORD2
+print	KEYWORD2
+setting	KEYWORD2
+blink	KEYWORD2
+noBlink	KEYWORD2
+clear	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ 
