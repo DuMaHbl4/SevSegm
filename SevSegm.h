@@ -1,3 +1,5 @@
+//Автор - Дмитрий Догин (связь: https://vk.com/duino_du4) 12.2016
+
 #ifndef SEVSEGM_H
 #define SEVSEGM_H
 
